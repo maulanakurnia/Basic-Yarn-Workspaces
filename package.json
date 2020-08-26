@@ -1,0 +1,12 @@
+{
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "name": "example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/maulanakurnia/basic-yarn-workspaces.git",
+  "author": "Maulana Kurnia <maulanaakurniaa@yahoo.com>",
+  "license": "MIT"
+}
