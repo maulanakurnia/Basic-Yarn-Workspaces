@@ -1,0 +1,18 @@
+{
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "build": "lerna run build"
+  },
+  "devDependencies": {
+    "lerna": "^2.11.0"
+  },
+  "name": "example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/maulanakurnia/basic-yarn-workspaces.git",
+  "author": "Maulana Kurnia <maulanaakurniaa@yahoo.com>",
+  "license": "MIT"
+}
